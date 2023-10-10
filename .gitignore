@@ -113,6 +113,8 @@ dist
 # FuseBox cache
 .fusebox/
 
+troop_movements10m.csv
+
 # DynamoDB Local files
 .dynamodb/
 
